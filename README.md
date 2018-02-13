@@ -7,7 +7,7 @@ Lelecoin is "green" protocol, since 100% PoS mechanisms don’t require massive 
 - Green Concept and Loving Environment
 - Built on the Ardor platform
 
-# Download Dependencies & Reporsitory!
+# Download Dependencies & Repository!
 Install Java 8 (dependencies):
 ```sh
 Ubuntu
