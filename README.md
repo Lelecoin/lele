@@ -32,10 +32,6 @@ Unix
 ./start.sh
 ```
 ```sh
-Mac
-./run.command
-```
-```sh
 Windows
 run.bat
 ```
